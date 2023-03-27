@@ -1,0 +1,18 @@
+{
+  "name": "checkpoint-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "email-sender.js",
+  "scripts": {
+    "start": " nodemon email-sender.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "generate-password": "^1.7.0",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.22"
+  }
+}
